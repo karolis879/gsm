@@ -17,9 +17,8 @@
                                 <p><span class="text-white"><i class="zmdi zmdi-phone zmdi-hc-fw mr-1"></i><a
                                             href="tel:+410433222211"
                                             class="text-white">+41(0) 43 322 22 11</a></span><br/>
-                                    <a href="mailto:info@gsmanagement.ch" class="text-white"><i
-                                            class="zmdi zmdi-email zmdi-hc-fw mr-1"></i>info@gsmanagement.ch</a></p>
-                                <a href="#" class="mr-1 text-white"><span class="fs--3 fs-lg--2">Find us on LinkedIn <i
+                                </p>
+                                <a href="https://www.linkedin.com/" class="mr-1 text-white"><span class="fs--3 fs-lg--2">Find us on LinkedIn <i
                                             class="zmdi zmdi-linkedin text-white"></i></span></a>
                             </ul>
                         </div>

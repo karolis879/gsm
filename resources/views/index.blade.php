@@ -131,18 +131,6 @@
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-6 col-lg-3">
-                            <img src="{{ asset('img/profile-09.jpg') }}" alt="" class="img-fluid w-100 rounded-circle"/>
-                        </div>
-                        <div class="col-lg-9">
-                            <blockquote class="blockquote" data-aos="zoom-out-up">
-                                <p class="robot-regular-16-black">{{ __('home.derek') }}</p>
-                                <footer class="blockquote-footer text-right"><span class="h5 proxima-bold-purple-26">Derek Roga</span><br/><span
-                                        class="review robot-regular-16-blue">EQUIIS Technologies AG, CEO</span></footer>
-                            </blockquote>
-                        </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-lg-3">
                             <img src="{{ asset('img/88.jpg') }}" alt="" class="img-fluid w-100 rounded-circle"/>
                         </div>
                         <div class="col-lg-9">

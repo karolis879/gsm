@@ -35,7 +35,7 @@
                         <p class="mb-6 robot-regular-16-second-black">Global Services Management AG
                             <br>Usteristrasse 19
                             <br>CH-8001 Zürich<br> <a href="tel:+410433222211" class="robot-regular-16-second-black">+41(0)
-                                43 322 22 11</a><br> <a href="mailto:info@gsmanagement.ch" class="robot-regular-16-second-black">info@gsmanagement.ch</a>
+                                43 322 22 11</a>
                         </p>
                     </div>
                 </div>

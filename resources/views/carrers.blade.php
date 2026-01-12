@@ -35,7 +35,7 @@
                         <b>Global Services Management AG</b><br>
                         Usteristrasse 19<br>
                         CH-8001 Zurich<br>
-                        Email: info@gsmanagement.ch<br><br>
+                        <a class="robot-regular-16-second-black" href="/contact-us">Contact Us</a><br><br>
                     </p>
 
                 </div>

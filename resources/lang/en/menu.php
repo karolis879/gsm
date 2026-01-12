@@ -5,6 +5,6 @@ return [
     'about'       => 'ABOUT US',
     'services'       => 'SERVICES',
     'projects'       => 'PROJECTS',
-    'carrers'       => 'CARRERS',
+    'carrers'       => 'CAREER',
     'contact'       => 'CONTACT',
 ];
