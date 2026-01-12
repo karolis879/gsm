@@ -60,6 +60,6 @@
 
     <!-- Scripts -->
     <!--<script src="{{ asset('js/app.js') }}" defer></script>-->
-    @include('cookieConsent::index')
+    @include('cookie-consent::index')
 </body>
 </html>
