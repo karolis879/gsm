@@ -1,0 +1,31 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    container_name: laravel_app
+    volumes:
+      - ./:/var/www     # now mount current folder (root gsm) into /var/www
+    ports:
+      - "8080:8080"
+
+    networks:
+      - laravel
+
+  db:
+    image: mysql:5.7
+    platform: linux/amd64   # needed for Apple Silicon
+    container_name: laravel_db
+    environment:
+      MYSQL_DATABASE: gsmanagement   # your DB
+      MYSQL_ROOT_PASSWORD: root      # root password
+    ports:
+      - "3307:3306"
+    networks:
+      - laravel
+    command: --default-authentication-plugin=mysql_native_password
+
+
+
+networks:
+  laravel:
+    driver: bridge
