@@ -18,7 +18,7 @@
                                             href="tel:+410433222211"
                                             class="text-white">+41(0) 43 322 22 11</a></span><br/>
                                 </p>
-                                <a href="https://www.linkedin.com/" class="mr-1 text-white"><span class="fs--3 fs-lg--2">Find us on LinkedIn <i
+                                <a href="https://www.linkedin.com/company/global-services-management-ag/"  target="_blank" class="mr-1 text-white"><span class="fs--3 fs-lg--2">Find us on LinkedIn <i
                                             class="zmdi zmdi-linkedin text-white"></i></span></a>
                             </ul>
                         </div>

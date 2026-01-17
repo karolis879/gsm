@@ -59,6 +59,7 @@
 
                                 <div class="mt-md-10">
                                     <img src="{{ asset('/img/img-21.jpg') }}" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" />
+                                    <img src="{{ asset('/img/gsm-Zermatt.jpg') }}" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" />
                                 </div>
                             </div>
                         </div>

@@ -42,8 +42,13 @@
                             class="d-flex h-100 align-items-center ml-lg-neg-7 release-container unrelease-lg-container">
                             <!-- Carousel -->
                             <div class="owl-carousel"
-                                 data-carousel-options='{"items":1,"loop":true,"responsive":{"0":{"dots":true,"nav":false},"992":{"dots":false,"nav":true}}}'>
-                                <div><img src="{{ asset('img/slider1.png') }}" class="img-fluid w-100" alt=""/></div>
+                                 data-carousel-options='{"items":1,"loop":true,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true, "responsive":{"0":{"dots":true,"nav":false}, "992":{"dots":false,"nav":false}}}'>
+                                <div>
+                                    <img src="{{ asset('img/hero-new-gsm.jpg') }}" class="img-fluid w-100" alt=""/>
+                                </div>
+                                <div>
+                                    <img src="{{ asset('img/slider1.png') }}" class="img-fluid w-100" alt=""/>
+                                </div>
                             </div>
                             <!-- End of Carousel -->
                         </div>
@@ -137,7 +142,7 @@
                             <blockquote class="blockquote" data-aos="zoom-out-up">
                                 <p class="robot-regular-16-black">{{ __('home.joachim') }}</p>
                                 <footer class="blockquote-footer text-right"><span class="h5 proxima-bold-purple-26">Dr. Jur. Joachim Thilo Senst
-</span><br/><span class="review robot-regular-16-blue">Direktor & CEO GBT GmbH</span></footer>
+                                </span><br/><span class="review robot-regular-16-blue">Direktor & CEO GBT GmbH</span></footer>
                             </blockquote>
                         </div>
                     </div>
