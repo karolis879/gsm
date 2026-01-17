@@ -9,7 +9,7 @@
             <div class="container">
                 <div class="row position-relative">
                     <div class="col-lg-8 minh-100vh col-xl-7 bg-white pt-0 pt-lg-6 pb-6 pb-lg-3">
-                        <div class="row align-items-center h-100">
+                        <div class="row align-items-start align-items-lg-center mt-3 mt-lg-0 h-100">
                             <div class="col-lg-10 pb-3">
                                 <h1 class="fs-3 fs-lg-5 title-underline mb-5 pb-3 anim-proxima-bold-black-46">{{ __('home.glance') }}
                                     <br><!--<span class="anim-proxima-bold-purple-46">{{ __('home.your') }}</span>-->
@@ -47,7 +47,7 @@
                                     <img src="{{ asset('img/hero-new-gsm.jpg') }}" class="img-fluid w-100" alt=""/>
                                 </div>
                                 <div>
-                                    <img src="{{ asset('img/slider1.png') }}" class="img-fluid w-100" alt=""/>
+                                    <img src="{{ asset('img/img-41.jpg') }}" class="img-fluid w-100" alt=""/>
                                 </div>
                             </div>
                             <!-- End of Carousel -->
