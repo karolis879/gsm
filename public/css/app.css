@@ -22655,7 +22655,7 @@ div.code-toolbar > .toolbar .toolbar-item span:hover {
 }
 
 .owl-carousel .owl-nav.disabled + .owl-dots {
-  margin-top: 10px;
+  display: none;
 }
 
 .owl-carousel .owl-dots {
